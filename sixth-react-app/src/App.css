@@ -1,0 +1,8 @@
+.card{
+  width: 20vw;
+  padding: 2vw;
+  border: 3px solid #000;
+  background-color: cadetblue;
+  color: aliceblue;
+  margin: 1vw 0;
+}
